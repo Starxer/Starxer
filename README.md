@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Starxer
-- 👀 I’m interested in python and deeplearning
-- 🌱 I’m currently learning pytorch
+- 👀 I’m interested in Python and deeplearning
+- 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
